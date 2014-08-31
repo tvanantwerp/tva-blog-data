@@ -4,6 +4,8 @@ These data are a brief survey of the funding of the top ten US think tanks accor
 
 This short survey was conducted as part of an attempt to quantify the use of discussions of a think tank's funders as an attempt to discredit their publications by association with unpopular individuals and/or groups.
 
+These data are used in this blog post: [Think Tank Funding and Guilt by Association](http://www.tomvanantwerp.com/think-tank-funding-guilt-association/).
+
 ## Explanation of Data
 
 | Name | Description |
